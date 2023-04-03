@@ -2,10 +2,10 @@
 
 <div align="center">
 
-  <img src="https://cdn-icons-png.flaticon.com/512/6996/6996871.png" alt="logo" width="140"  height="auto" />
+  <img src="https://cdn-icons-png.flaticon.com/512/9822/9822226.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Space travellers hub</b></h3>
 
 </div>
 
