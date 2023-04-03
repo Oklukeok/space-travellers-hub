@@ -93,7 +93,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-Use `git clone https://github.com/amare1990/space-travellers-hub.git` command to clone our repo in your local folder you want.
+Use `git clone git@github.com:Oklukeok/space-travellers-hub.git` command to clone our repo in your local folder you want.
 
 ### Install
 
