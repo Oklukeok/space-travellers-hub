@@ -127,9 +127,8 @@ First install `netlify` using the command `npm install netlify-cli -g`
 
 👤 **Lucas Bermudez**
 
-- GitHub: [@githubhandle](https://github.com/Oklukeok)
-- LinkedIn: [LinkedIn](www.linkedin.com/in/ 
-lucas-bermudez)
+- GitHub: [@Oklukeok](https://github.com/Oklukeok)
+- LinkedIn: [lucas-bermudez](www.linkedin.com/in/lucas-bermudez)
 
 👤 **Amare Kassa**
 
